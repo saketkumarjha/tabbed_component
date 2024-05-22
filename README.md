@@ -1,0 +1,1 @@
+this code help you to create tabbed component in your website where when you click one button then other button remove class name "active" and activate class translate to y-axis and content   also change accordingly. 
